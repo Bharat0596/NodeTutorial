@@ -1,0 +1,7 @@
+{
+
+    "env":{
+        "MONGODBATLASPW":"bharat123",
+        "JWT_KEY":"secret"
+    }
+}
